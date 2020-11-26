@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\bin\Debug\netcoreapp3.1\OOPCalances.exe
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\bin\Debug\netcoreapp3.1\OOPCalances.deps.json
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\bin\Debug\netcoreapp3.1\OOPCalances.runtimeconfig.json
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\bin\Debug\netcoreapp3.1\OOPCalances.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\bin\Debug\netcoreapp3.1\OOPCalances.dll
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\bin\Debug\netcoreapp3.1\OOPCalances.pdb
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.dll
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.pdb
+C:\Users\opilane\source\repos\OOPCalances\OOPCalances\obj\Debug\netcoreapp3.1\OOPCalances.genruntimeconfig.cache
